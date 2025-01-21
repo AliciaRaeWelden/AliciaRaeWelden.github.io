@@ -26,6 +26,22 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://AliciaRaeWelden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  AliciaRaeWelden
+#collections:
+#  pages:
+#    output: true
+
+navigation:
+  - title: About Me
+    url: /about/
+  - title: Quantum Chemistry
+    url: /quantum/
+#  - title: Education and Teaching
+#    url: /education-and-teaching/
+#  - title: Community and Outreach
+#    url: /community-and-outreach/
+#  - title: Science Communication
+#    url: /science-communication/
+
 
 # Build settings
 theme: minima
